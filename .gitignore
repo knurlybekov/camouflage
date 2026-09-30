@@ -1,0 +1,13 @@
+# Only the README, the notebooks, the input images and one earlier result are in the repository.
+/*
+!/README.md
+!/.gitignore
+!/0*.ipynb
+!/images/
+!/results/
+/results/*
+!/results/native_resolution_2026-09-24/
+images/**/calibrated/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
